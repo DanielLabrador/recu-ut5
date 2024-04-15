@@ -3,6 +3,8 @@ package biblio.base;
 public class Libro {
     private String titulo;
     private String autor;
+
+    //hOLA COMENTARIO
     private String editorial;
     private double precio;
 
